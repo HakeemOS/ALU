@@ -9,7 +9,7 @@ OUPTUTS: y[4:0], sevenSegment[6:0], an[3:0], negative_out, carry_out, zero_out, 
 
 Operation code table 
 0000: Zero
-0001: Pass (a)			              0010: Pass (b)
+0001: Pass through (a)			      0010: Pass through (b)
 0011: Inc (a)			                0100: Dec (a)
 0101: Add (a,b+cin)		            0110: Sub (a,b-cin)
 0111: AND (a,b) 		              1000: OR (a,b)
