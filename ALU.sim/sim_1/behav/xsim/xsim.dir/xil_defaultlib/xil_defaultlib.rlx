@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/squid/OneDrive/Documents/Vivado/2023/ALU/ALU.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/squid/OneDrive/Documents/Vivado/2023/ALU/ALU.srcs/sim_1/new/ALU_tb.v,1674955558,verilog,,,,ALU_tb,,,,,,,,
+C:/Users/squid/OneDrive/Documents/Vivado/2023/ALU/ALU.srcs/sim_1/new/BtoBCD_tb.v,1674964876,verilog,,,,BtoBCD_tb,,,,,,,,
+C:/Users/squid/OneDrive/Documents/Vivado/2023/ALU/ALU.srcs/sources_1/new/ALU_s.v,1674956373,verilog,,C:/Users/squid/OneDrive/Documents/Vivado/2023/ALU/ALU.srcs/sim_1/new/ALU_tb.v,,ALU_s,,,,,,,,
+C:/Users/squid/OneDrive/Documents/Vivado/2023/ALU/ALU.srcs/sources_1/new/BinarytoBCD_s.v,1674962630,verilog,,C:/Users/squid/OneDrive/Documents/Vivado/2023/ALU/ALU.srcs/sim_1/new/BtoBCD_tb.v,,BinarytoBCD_s,,,,,,,,
